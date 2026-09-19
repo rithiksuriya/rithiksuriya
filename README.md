@@ -10,8 +10,19 @@
 
 ## 🌐 Socials
 
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://rithiksuriya.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/search/results/people/?keywords=Rithik%20Suriya%20Mathiyalagan)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rithiksurya2005@gmail.com)
+
+---
+
+## 🚀 Portfolio Website
+
+🔗 **Visit My Portfolio:**
+
+### <https://rithiksuriya.github.io/>
+
+Explore my projects, publications, certifications, technical skills and experience.
 
 ---
 
