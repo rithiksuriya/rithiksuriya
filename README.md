@@ -1,70 +1,157 @@
-# 💫 About Me
+# 👋 Hi, I'm Rithik Suriya M
 
-* 👨‍🎓 **ECE Undergraduate (2023–2027)** at M. Kumarasamy College of Engineering, Karur
-* 🔌 **IoT & Embedded Systems** enthusiast with hands-on PCB design and GPS/GSM-based monitoring projects
-* ☕ **Java + SQL** developer — built an Online Voting System with Java and MySQL
-* 📡 **Antenna Design** with ANSYS HFSS — co-authored a sub-6 GHz patch antenna paper
-* 🎤 **Paper Presenter** at the 5th ICCCES 2026
-* 🛠️ Internships at **TVS Mobility** and **NSIC (IoT in Robotics)**
-* 🌱 Currently improving in Data Structures, Git workflows and embedded systems
+### ECE Undergraduate | Java Developer | IoT & Embedded Systems Enthusiast
 
-## 🌐 Socials
-
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-FF7139?style=for-the-badge\&logo=firefox-browser\&logoColor=white)](https://rithik-suriya-m-r9hn.vercel.app/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/search/results/people/?keywords=Rithik%20Suriya%20Mathiyalagan)
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:rithiksurya2005@gmail.com)
+🎓 **B.E. Electronics and Communication Engineering (2023–2027)**  
+🏫 M. Kumarasamy College of Engineering, Karur  
+📍 Namakkal, Tamil Nadu, India
 
 ---
 
-## 🚀 Portfolio Website
+## 💫 About Me
 
-🔗 **Visit My Portfolio:**
-
-### https://rithik-suriya-m-r9hn.vercel.app/
-
-Explore my projects, publications, certifications, technical skills and experience.
+- 👨‍🎓 ECE undergraduate with a **6.91 CGPA**
+- ☕ **Java developer** with hands-on project experience
+- 🔌 Interested in **IoT and Embedded Systems**
+- 🌐 Experienced with **Git & GitHub**
+- 🗄️ Built an **Online Voting System using Java and MySQL**
+- 📡 Developed a **Smart Transformer Phase Failure and Geo-Alert System**
+- 🛠️ Completed internships at **TVS Mobility** and **NSIC – Technical Services Centre**
+- 📚 Co-authored a **Sub-6 GHz Patch Antenna** research paper using ANSYS HFSS
+- 🎤 Presented a technical paper at **5th ICCCES 2026**
+- 🌱 Currently improving **Data Structures, Java, Git workflows and Embedded Systems**
 
 ---
 
-# 💻 Tech Stack
+## 🌐 Connect With Me
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge\&logo=eclipseide\&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8.svg?style=for-the-badge\&logo=mathworks\&logoColor=white)
-![Scilab](https://img.shields.io/badge/Scilab-1D4F91.svg?style=for-the-badge)
-![ANSYS HFSS](https://img.shields.io/badge/ANSYS_HFSS-FFB71B.svg?style=for-the-badge\&logoColor=black)
-![IoT](https://img.shields.io/badge/IoT-00979D.svg?style=for-the-badge)
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-333333.svg?style=for-the-badge)
-![PCB Design](https://img.shields.io/badge/PCB_Design-1B7F3B.svg?style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://rithik-suriya-m-r9hn.vercel.app/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithik-suriya/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rithiksuriya)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rithiksurya2005@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+### Programming Language
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Core Technologies
+
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-333333?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT-00979D?style=for-the-badge)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### Engineering Tools
+
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![ANSYS HFSS](https://img.shields.io/badge/ANSYS_HFSS-FFB71B?style=for-the-badge)
 
 ---
 
 ## 🚀 Projects
 
-| Project                                                      | What it does                                                                             |
-| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
-| **Smart Transformer Phase Failure and Geo-Alert System**     | GPS/GSM-based monitoring that detects phase failure and sends real-time location alerts  |
-| **Online Voting System**                                     | Secure Java + MySQL voting platform with authentication, admin controls and live results |
-| **Automated Git Workflow and Repository Maintenance System** | Automates branch creation, commit validation and code integration                        |
-| **Movie Theater Seating Arranger**                           | Queue-based seating system for faster data handling                                      |
+### 🔧 Smart Transformer Phase Failure and Geo-Alert System
 
-## 📄 Publications & Presentations
+- Developed a **GPS/GSM-based system** to detect transformer phase failures.
+- Integrated sensors and communication modules for **fault detection and location tracking**.
+- Designed the system to provide real-time alerts during transformer faults.
 
-* **Paper Presentation:** *Smart Transformer Phase Failure and Geo-Alert System* — 5th ICCCES 2026, PPG Institute of Technology, Coimbatore
-* **Co-Author:** *Bandwidth-Enhanced Sub-6 GHz Patch Antenna Using Slot-Loaded Radiator* (ANSYS HFSS)
+### ☕ Online Voting System
 
-## 🏅 Certifications & Workshops
+- Developed an online voting system using **Java and MySQL**.
+- Implemented **user authentication** and administrative controls.
+- Added real-time vote result management.
 
-* PCBathon Hackathon — K.S. Rangasamy College of Technology
-* Crafting Precision Workshop — BIT V-PRAYUKTI '25
-* TCS iON Young Career Edge – Professional
-* NPTEL Certification in Software Testing
+### 🔄 Automated Git Workflow and Repository Maintenance System
+
+- Developed an automated Git workflow for **branch creation and commit validation**.
+- Used **Git/GitHub** to streamline version-control activities.
+- Reduced repetitive manual repository tasks.
 
 ---
 
-📫 **Reach me:** [rithiksurya2005@gmail.com](mailto:rithiksurya2005@gmail.com)
+## 🏢 Internship Experience
+
+### TVS Mobility Pvt. Ltd.
+
+**Industrial Internship — July 2025**
+
+- Gained practical exposure to automotive engineering operations.
+- Observed manufacturing, quality, safety and professional engineering practices.
+
+### NSIC – Technical Services Centre, Dindigul
+
+**IoT in Robotics — January 2025**
+
+- Gained exposure to **sensors, robotics and embedded systems**.
+- Studied sensor interfacing, microcontroller-based systems and IoT communication.
+
+---
+
+## 📡 Publications & Presentations
+
+### 🎤 Paper Presentation
+
+**Smart Transformer Phase Failure and Geo-Alert System**
+
+📍 5th ICCCES 2026 — PPG Institute of Technology, Coimbatore
+
+### 📄 Co-Author
+
+**Bandwidth-Enhanced Sub-6 GHz Patch Antenna Using Slot-Loaded Radiator**
+
+- Antenna design and analysis using **ANSYS HFSS**.
+
+---
+
+## 🏅 Certifications & Workshops
+
+- 🏆 **PCBathon Hackathon** — K.S. Rangasamy College of Technology
+- 🛠️ **Crafting Precision Workshop** — BIT V-PRAYUKTI '25
+- 📜 **TCS iON Young Career Edge – Professional**
+- 📜 **NPTEL Certification in Software Testing**
+
+---
+
+## 🎯 Currently Learning
+
+- ☕ Advanced Java & OOP
+- 🧩 Data Structures & Algorithms
+- 🔄 Git & GitHub Workflows
+- 🔌 Embedded Systems
+- 🌐 IoT Technologies
+- 💼 IT Placement Preparation
+
+---
+
+## 📊 Career Goal
+
+> Aspiring software/IT professional with an ECE background, passionate about Java, IoT, Embedded Systems and solving real-world problems through technology.
+
+---
+
+## 📫 Contact
+
+📧 **Email:** [rithiksurya2005@gmail.com](mailto:rithiksurya2005@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/rithik-suriya](https://www.linkedin.com/in/rithik-suriya)
+
+💻 **GitHub:** [github.com/rithiksuriya](https://github.com/rithiksuriya)
+
+🌐 **Portfolio:** [rithik-suriya-m-r9hn.vercel.app](https://rithik-suriya-m-r9hn.vercel.app/)
